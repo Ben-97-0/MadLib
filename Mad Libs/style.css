@@ -1,0 +1,30 @@
+html {
+  background-image: url(IMG/Clouds.jpeg);
+  padding: 50px;
+}
+body {
+  margin: 0 auto;
+  background: white;
+  width: 600px;
+  border-radius: 20px;
+  padding: 50px 25px;
+  background-color: rgba(255, 255, 255, 0.7);
+}
+h1 {
+  padding: 0px 50px;
+}
+h1,
+h2 {
+  color: blue;
+}
+button {
+  background: cyan;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+button:hover {
+  cursor: pointer;
+}
+.para1 {
+  border: yellow 3px solid;
+}
